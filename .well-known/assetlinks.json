@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.meronetwork.sushiking",
+               "sha256_cert_fingerprints": ["26:EB:61:8A:39:B4:2A:4F:27:2C:5D:C0:32:ED:FE:2F:0D:D6:01:E3:5A:EC:DA:67:CC:52:4F:2A:3E:2B:EE:72"] }
+}]
